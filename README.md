@@ -1,2 +1,2 @@
 # delta-demo
-this is practice for github class
+this is practice for github & class.
